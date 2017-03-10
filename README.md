@@ -19,3 +19,6 @@ java version "1.8.0_121"
 * Paste this link http://www.apache.org/dist/ant/ivyde/updatesite in Work With field.
 * This will show... 1. Apache Ivy library and 2. Apache IvyDE Eclipse plugins; choose select all option.
 * Click Next, Agree and Finish. 
+
+
+## 3. How to run tests from the command line
