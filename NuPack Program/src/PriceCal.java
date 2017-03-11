@@ -1,7 +1,7 @@
 //created by Kirtika Aggarwal, 10-March-2017, version -1
 public class PriceCal {
 	
-		static public double calCost(PriceDetails pd){
+        public double calCost(PriceDetails pd){
 		
 		
 		double final_cost=0.0d;
