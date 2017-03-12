@@ -1,0 +1,10 @@
+********************************************************
+      Approach Document created by kirtika Aggarwal
+********************************************************
+1. Pricing Problem logic was made and then tested based on the given Input and Output.
+2. Two Java files made that contains the solution i.e. 1. PriceDetails.java and 2. PriceCal.java
+3. In PriceDetails.java, two methods are made to get and set the input data.
+4. In Pricecal.java, a method is made to calculate the final cost based on the conditions (provided in the problem document ) which receives the PriceDetails object as a argument and through which input data is accessed.
+5. TestJunit.java file is made which contains the test method to test the Program based on 3 different prvided input and output. From here, the input is provided through calling the PriceDetails method setData() with its object and getting the final_cost value through calCost() method of Pricecal class. Then assertEquals() method is used to check the output, where it check whether the calculated value is equal to the provided expected output or not. If its equal then it returns true else false.
+6. TestRunner.java file is made to run the TestJunit.java file. If the value is true then it will display true else it will print failure message along with both expected output and calculated output.
+7. build.xml file is made which contains all the required information (eg: project name, its location, etc) to build and run the project or program. 
