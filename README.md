@@ -1,5 +1,5 @@
----------NuPack Pricing Problem---------
---------------Read Me File--------------
+#---------NuPack Pricing Problem---------
+#--------------Read Me File--------------
 
 =======
 ## 1. Runtime Versions
@@ -23,11 +23,10 @@ Ant version "1.10.1"
 * Append the Ant complier location to the system Path Variable; i.e. C:\Program Files\Apache Software Foundation\apache-ant-1.10.1\bin
 
 
---------------Created by Kirtika Aggarwal--------------
-
 =======
 ## 3. How to run tests from the command line
 * Create a directory JUNIT_WORKSPACE in "C" dir; i.e. C:\JUNIT_WORKSPACE and put the NuPack Program under it.
 * Open Command prompt, then go to dir NuPack Program; i.e. cd C:\JUNIT_WORKSPACE\NuPack Program.
 * Type "ant" command  at the command prompt, result will be displayed.
 
+#--------------Created by Kirtika Aggarwal--------------
