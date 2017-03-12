@@ -1,4 +1,4 @@
-//created by Kirtika Aggarwal, 10-March-2017, version -1
+//created by Kirtika Aggarwal, 10-March-2017, version - 1
 public class PriceCal {
 	
         public double calCost(PriceDetails pd){
